@@ -1,0 +1,12 @@
+{
+  "queue_url": "amqps://hxdwzvac:CrhMCADAUbzBv-xfxd7IzmshuLR8sOon@rattlesnake.rmq.cloudamqp.com/hxdwzvac",
+  "first_queue_name": "first_queue",
+  "second_queue_name": "second_queue",
+  "db_name": "test.db",
+  "table_name": "invoices",
+  "first_file_path": "C:\\Users\\Roy\\Desktop\\invoices_2009.json",
+  "second_file_path": "C:\\Users\\Roy\\Desktop\\invoices_2010.json",
+  "third_file_path": "C:\\Users\\Roy\\Desktop\\invoices_2011.json",
+  "forth_file_path": "C:\\Users\\Roy\\Desktop\\invoices_2012.csv",
+  "fifth_file_path": "C:\\Users\\Roy\\Desktop\\invoices_2013.csv"
+}
